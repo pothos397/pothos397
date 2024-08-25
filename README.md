@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about database
 - 💞️ I’m looking to collaborate on frontend web projects, database projects
 - 📫 How to reach me: ✉️ ahmed.siam3976@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: nick/her
 - ⚡ Fun fact: I dont find AI hypeworthy
 
 <p align="center">
